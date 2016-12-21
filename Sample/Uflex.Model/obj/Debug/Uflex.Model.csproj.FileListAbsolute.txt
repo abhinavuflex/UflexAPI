@@ -1,0 +1,4 @@
+D:\safeprojecxt\api\Sample\Uflex.Model\bin\Debug\Uflex.Model.dll
+D:\safeprojecxt\api\Sample\Uflex.Model\bin\Debug\Uflex.Model.pdb
+D:\safeprojecxt\api\Sample\Uflex.Model\obj\Debug\Uflex.Model.dll
+D:\safeprojecxt\api\Sample\Uflex.Model\obj\Debug\Uflex.Model.pdb
